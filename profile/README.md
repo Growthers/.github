@@ -1,4 +1,4 @@
-# Welcome To Undecided!
+# Welcome To Growthers!
 
 ## 共同開発鯖のGitHubOrgへようこそ！
 
